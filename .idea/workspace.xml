@@ -1,12 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="804c216d-26d7-488b-822c-0458006b9ea8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java" afterDir="false" />
+    <list default="true" id="804c216d-26d7-488b-822c-0458006b9ea8" name="Default Changelist" comment="22点19分">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/common/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Bs_Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/BookMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/BookMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/BookService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-datetimepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.data.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.data.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/distpicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/dist/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/dist/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bookData.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/bookData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/orderData.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/orderData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/order_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/order_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/entity/Bs_Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/BookMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/book/bookshop/mapper/BookMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/book/bookshop/service/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/book/bookshop/web/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/bootstrap-datetimepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.data.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.data.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/js/distpicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/dist/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/dist/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/bookData.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/bookData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/orderData.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/orderData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/order_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/order_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/book/bookshop/BookShopApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/book/bookshop/BookShopApplicationTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,43 +82,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+            <state relative-caret-position="1680">
+              <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="148" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
+                <element signature="n#div#0;n#aside#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#aside#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/carousel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-315" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bookData.html">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="84">
+              <caret line="4" column="70" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="70" />
               <folding>
-                <element signature="e#630#636#0" expanded="true" />
-                <element signature="e#636#642#0" expanded="true" />
-                <element signature="e#686#692#0" expanded="true" />
-                <element signature="e#692#698#0" expanded="true" />
-                <element signature="e#1124#1130#0" expanded="true" />
-                <element signature="e#1350#1356#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,34 +116,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Bs_Book.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/books_list.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/order_list.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/orderData.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/details.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/cart.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/footer.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -105,9 +161,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkUser</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,12 +187,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/enums/Category.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/p6spy/engine/spy/P6SpyDriver.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/bookData.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Bs_Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/bookData.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/web/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/book/bookshop/service/UserService.java" />
       </list>
     </option>
   </component>
@@ -142,17 +210,19 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="778" />
-    <option name="y" value="422" />
+    <option name="x" value="221" />
+    <option name="y" value="323" />
     <option name="width" value="1674" />
     <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,6 +320,15 @@
               <item name="book-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="book-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,6 +351,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,7 +362,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../book-shop end" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/common" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -290,7 +370,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaPeoject\book-shop\src\main\resources\templates\common" />
+      <recent name="F:\ideaPeoject\book-shop\src\main\resources" />
       <recent name="F:\ideaPeoject\book-shop\src\main\resources\static" />
+      <recent name="F:\ideaPeoject\book-shop\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\ideaPeoject\book-shop\src\main\resources\templates" />
     </key>
   </component>
@@ -350,8 +435,31 @@
       <workItem from="1594657500764" duration="19000" />
       <workItem from="1594705192229" duration="952000" />
       <workItem from="1594742399118" duration="3436000" />
-      <workItem from="1594819918528" duration="2819000" />
+      <workItem from="1594819918528" duration="4291000" />
+      <workItem from="1594824408004" duration="3776000" />
     </task>
+    <task id="LOCAL-00001" summary="22点19分">
+      <created>1594822808678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594822808678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22点19分">
+      <created>1594822909828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594822909828</updated>
+    </task>
+    <task id="LOCAL-00003" summary="22点19分">
+      <created>1594822993139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594822993139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -364,15 +472,18 @@
     <history-entry file="BookShopApplicationTests - 2020.07.14 at 00h 07m 12s.xml">
       <configuration name="BookShopApplicationTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BookShopApplicationTests - 2020.07.15 at 22h 53m 41s.xml">
+      <configuration name="BookShopApplicationTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15670000" />
+    <option name="totallyTimeSpent" value="20918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="626" y="356" width="1674" height="1015" extended-state="0" />
+    <frame x="221" y="323" width="1674" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20260224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20508054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,19 +492,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4903519" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291714" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33144155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291714" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32934132" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3291714" />
       <window_info anchor="bottom" id="Problems" order="14" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -410,16 +521,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22点19分" />
+    <option name="LAST_COMMIT_MESSAGE" value="22点19分" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mvnw.cmd" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/HELP.md" />
     <entry file="file://$PROJECT_DIR$/mvnw" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/footer.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/cart.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/book-shop.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -454,9 +574,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/images/3.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/order_list.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Book.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -483,18 +600,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/p6spy/engine/spy/P6SpyDriver.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/book/bookshop/BookShopApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/enums/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -505,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/BookShopApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-annotation/3.2.0/mybatis-plus-annotation-3.2.0.jar!/com/baomidou/mybatisplus/annotation/TableId.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -519,15 +617,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/books_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1005" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/confirm_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/book/bookshop/BookShopApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.7.RELEASE/spring-web-5.2.7.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/BookShopApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/booksListData.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bookData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,80 +741,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/confirm_order.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/entity/Bs_Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="415">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/config/MybatisPlusConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/config/WebMvcConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/web/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="413">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/cart.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/details.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/order_list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/orderData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/books_list.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="126">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/bookData.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/common/bookModal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="1680">
+          <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="148" selection-end-column="29" />
           <folding>
-            <element signature="e#630#636#0" expanded="true" />
-            <element signature="e#636#642#0" expanded="true" />
-            <element signature="e#686#692#0" expanded="true" />
-            <element signature="e#692#698#0" expanded="true" />
-            <element signature="e#1124#1130#0" expanded="true" />
-            <element signature="e#1350#1356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/book/bookshop/web/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
+            <element signature="n#div#0;n#aside#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#aside#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

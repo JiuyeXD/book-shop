@@ -16,7 +16,7 @@ import java.util.Date;
 
 @Data // lombok注解自动生成get/set方法
 @TableName(value = "bs_book") // 注解指定表名
-public class Bs_Book extends Model<Bs_Book> {
+public class Book extends Model<Book> {
     @TableId(type = IdType.AUTO) // 指定主键 主键为自增 => AUTO
     private Integer id;
     private String isbn;
