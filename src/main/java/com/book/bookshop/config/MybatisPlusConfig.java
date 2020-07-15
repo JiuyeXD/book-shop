@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 public class MybatisPlusConfig {
 
     /**
-     * 分页插件 update test
+     * 分页插件
      */
     @Bean
     public PaginationInterceptor paginationInterceptor() {

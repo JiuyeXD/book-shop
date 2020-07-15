@@ -41,10 +41,10 @@ public class BookController {
         model.addAttribute("pre",iPage.getCurrent() - 1);
         model.addAttribute("next", iPage.getCurrent() + 1);
         model.addAttribute("cur", iPage.getCurrent());
+        model.addAttribute("last",iPage.getPages());
         model.addAttribute("pages", iPage.getPages());
         model.addAttribute("category",category);
         return "bookData";
     }
 
-    // GitHub 上传测试
 }
