@@ -1,4 +1,4 @@
-package com.book.bookshop.entity;
+ypackage com.book.bookshop.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
@@ -8,8 +8,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/24 15:38
+ * @Auther: Jiuye
+ * @Date: 2020/6/24 15:38
  * @Description: 用户实体类
  */
 @Data

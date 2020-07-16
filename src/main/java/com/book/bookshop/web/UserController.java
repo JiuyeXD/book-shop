@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 import javax.servlet.http.HttpSession;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/24 15:49
+ * @Auther: Jiuye
+ * @Date: 2020/6/24 15:49
  * @Description: 用户控制器
  */
 @Controller

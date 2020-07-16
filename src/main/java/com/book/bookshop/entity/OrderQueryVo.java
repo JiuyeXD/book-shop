@@ -6,7 +6,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- * @Auther: jzhang
+ * @Auther: Jiuye
  * @Date: 2019/10/9 09:21
  * @Description: 订单查询条件包装类
  */

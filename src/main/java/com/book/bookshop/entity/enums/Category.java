@@ -4,8 +4,8 @@ import com.baomidou.mybatisplus.annotation.EnumValue;
 import lombok.Getter;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/24 09:48
+ * @Auther: Jiuye
+ * @Date: 2020/6/24 09:48
  * @Description: 图书类型枚举类
  */
 @Getter

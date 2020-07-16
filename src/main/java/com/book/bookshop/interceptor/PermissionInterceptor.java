@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * @Auther: jzhang
+ * @Auther: Jiuye
  * @Date: 2019/10/8 15:06
  * @Description: 用户登录拦截器
  */

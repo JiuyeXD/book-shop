@@ -10,8 +10,8 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/29 16:32
+ * @Auther: Jiuye
+ * @Date: 2020/6/29 16:32
  * @Description: 订单实体类
  */
 @Data

@@ -5,8 +5,8 @@ import com.book.bookshop.entity.User;
 import org.springframework.stereotype.Repository;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/24 15:51
+ * @Auther: Jiuye
+ * @Date: 2020/6/24 15:51
  * @Description:
  */
 @Repository

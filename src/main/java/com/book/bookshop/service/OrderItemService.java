@@ -6,8 +6,8 @@ import com.book.bookshop.mapper.OrderItemMapper;
 import org.springframework.stereotype.Service;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/29 16:37
+ * @Auther: Jiuye
+ * @Date: 2020/6/29 16:37
  * @Description:
  */
 @Service

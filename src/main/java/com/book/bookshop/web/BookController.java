@@ -11,8 +11,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/24 10:10
+ * @Auther: Jiuye
+ * @Date: 2020/6/24 10:10
  * @Description: 图书控制器
  */
 @Controller

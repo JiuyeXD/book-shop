@@ -3,8 +3,8 @@ package com.book.bookshop.entity;
 import lombok.Data;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/26 16:06
+ * @Auther: Jiuye
+ * @Date: 2020/6/26 16:06
  * @Description:
  */
 @Data

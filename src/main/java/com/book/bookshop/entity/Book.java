@@ -12,8 +12,8 @@ import lombok.EqualsAndHashCode;
 import java.util.Date;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/24 09:37
+ * @Auther: Jiuye
+ * @Date: 2020/6/24 09:37
  * @Description: 图书实体类
  */
 @Data

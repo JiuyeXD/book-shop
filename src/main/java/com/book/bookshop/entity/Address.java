@@ -8,8 +8,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * @Auther: jzhang
- * @Date: 2019/9/29 15:02
+ * @Auther: Jiuye
+ * @Date: 2020/6/29 15:02
  * @Description: 地址实体类
  */
 @Data
