@@ -1,25 +1,23 @@
 package com.book.bookshop.entity.enums;
-/*
- * @author: Jiuye
- * @date: 2020-07-13 23:20
- * @package: com.book.bookshop.entity.enums
- * @Description: 套装枚举类
- */
 
 import com.baomidou.mybatisplus.annotation.EnumValue;
 import lombok.Getter;
 
+/**
+ * @Auther: jzhang
+ * @Date: 2019/9/24 09:51
+ * @Description: 套装枚举类
+ */
 @Getter
 public enum Suit {
-    YES(1,"是"),
-    NO(2,"否");
+    YES(1,"是"),NO(2,"否");
 
-    Suit(int code, String descp){
+    Suit(int code, String desc) {
         this.code = code;
-        this.descp = descp;
+        this.desc = desc;
     }
 
     @EnumValue//标记数据库存的值是code
     private final int code;
-    private final String descp;
+    private final String desc;
 }

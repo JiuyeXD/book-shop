@@ -1,16 +1,15 @@
 package com.book.bookshop.service;
-/*
- * @author: Jiuye
- * @date: 2020-07-13 23:42
- * @package: com.book.bookshop.service
- * @Description: 图书业务层
- */
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.book.bookshop.entity.Book;
 import com.book.bookshop.mapper.BookMapper;
 import org.springframework.stereotype.Service;
 
+/**
+ * @Auther: jzhang
+ * @Date: 2019/9/24 09:56
+ * @Description: 图书业务层
+ */
 @Service
-public class BookService extends ServiceImpl<BookMapper, Book> {
+public class BookService extends ServiceImpl<BookMapper,Book> {
 }
